@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
+
+  <url>
+    <loc>https://www.thesaint.scot/post/buck-s-bar-opening-in-st-andrews-owner-confirms-1</loc>
+    <news:news>
+      <news:publication>
+        <news:name>The Saint</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-06-01</news:publication_date>
+      <news:title>Buck’s Bar Opening in St Andrews, Owner Confirms</news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.thesaint.scot/post/st-andrews-honours-scottish-actor-and-presenter-alan-cumming</loc>
+    <news:news>
+      <news:publication>
+        <news:name>The Saint</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-07-12</news:publication_date>
+      <news:title>St Andrews Honours Scottish Actor and Presenter Alan Cumming</news:title>
+    </news:news>
+  </url>
+
+</urlset>
